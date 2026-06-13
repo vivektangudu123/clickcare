@@ -75,6 +75,7 @@ clickcare/
 
 - GitHub: [@vivektangudu123](https://github.com/vivektangudu123)
 - LinkedIn: [vivektangudu](https://www.linkedin.com/in/vivektangudu)
+- Email: [vivektangudu@outlook.com](mailto:vivektangudu@outlook.com)
 
 ## 📄 License
 
