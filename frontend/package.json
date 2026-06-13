@@ -6,12 +6,12 @@
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "ajv": "^8.17.1",
     "axios": "^1.6.8",
     "hashmap": "^2.4.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-icons": "^5.0.1",
-    "react-input-switch": "^2.2.2",
     "react-pdf": "^7.7.1",
     "react-router-dom": "^6.22.2",
     "react-scripts": "5.0.1",
@@ -48,5 +48,16 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "overrides": {
+    "sourcemap-codec": "npm:@jridgewell/sourcemap-codec@^1.5.0",
+    "rollup-plugin-terser": "npm:@rollup/plugin-terser@^0.4.4",
+    "svgo": "^3.3.2",
+    "@babel/plugin-proposal-class-properties": "npm:@babel/plugin-transform-class-properties@^7",
+    "@babel/plugin-proposal-private-methods": "npm:@babel/plugin-transform-private-methods@^7",
+    "@babel/plugin-proposal-numeric-separator": "npm:@babel/plugin-transform-numeric-separator@^7",
+    "@babel/plugin-proposal-nullish-coalescing-operator": "npm:@babel/plugin-transform-nullish-coalescing-operator@^7",
+    "@babel/plugin-proposal-optional-chaining": "npm:@babel/plugin-transform-optional-chaining@^7",
+    "@babel/plugin-proposal-private-property-in-object": "npm:@babel/plugin-transform-private-property-in-object@^7"
   }
 }
